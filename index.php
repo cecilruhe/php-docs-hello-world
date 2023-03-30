@@ -1,5 +1,12 @@
-<?php
+<!DOCTYPE HTML>
+<html>  
+<body>
 
-echo "Welkom op de pagina van de aller beste webshop!";
+<form action="welcome_get.php" method="get">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+</form>
 
-?>
+</body>
+</html>
