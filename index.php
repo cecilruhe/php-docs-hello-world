@@ -7,8 +7,8 @@
 
         
 <form action="welcome.php" method="post">
-Name: <input type="text" name="name"><br>
-E-mail: <input type="text" name="email"><br>
+Name: <input type="text" name="name"><br><br>
+E-mail: <input type="text" name="email"><br><br>
 Comment: <textarea name="comment" rows="5" cols="40"></textarea>
   <br><br>
 Gender:
